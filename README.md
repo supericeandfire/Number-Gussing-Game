@@ -1,2 +1,2 @@
-# Number-Gussing-Game
+# Number-Guessing-Game
 Assembly code.
